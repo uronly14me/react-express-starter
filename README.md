@@ -6,5 +6,5 @@ yarn start
 npm start
 ```
 
-You can go to [localhost:3000]:http:localhost:3000
+You can go to [localhost:3000]: http:localhost:3000
 
