@@ -1,2 +1,10 @@
 # react-express-starter
-Make you easy to start react and express.
+
+Just run command below
+```
+yarn start
+npm start
+```
+
+You can go to [localhost:3000]:http:localhost:3000
+
