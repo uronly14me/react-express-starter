@@ -1,7 +1,7 @@
 {
-  "name": "react-cms",
+  "name": "react-express-starter",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "concurrently": "^4.1.0",
     "react": "^16.7.0",
