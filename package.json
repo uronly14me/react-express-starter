@@ -1,5 +1,6 @@
 {
   "name": "react-express-starter",
+  "description": "starter kit for react and express",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
